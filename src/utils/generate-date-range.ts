@@ -14,3 +14,4 @@ export function generateDateRange () {
 
     return dates;
 }
+
